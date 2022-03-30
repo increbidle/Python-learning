@@ -1,2 +1,2 @@
 # Python-learning
-将学习中的操作尝试一遍
+自己的一些Python练习
